@@ -1,0 +1,18 @@
+{ 
+	"InputType": ".png",
+	"OutputType": ".png",
+	"Height": 720,
+	"Width": 1280,
+	"InputPrefix": "%06d.png",
+	"Clean_train": "clean_train",
+	"Clean_test": "clean_test",
+	"Gt_train": "gt_train",
+	"Gt_test": "gt_test",
+	"Clean": "clean",
+	"Gt": "gt",
+	"StartFrame": 1,
+	"StopFrame": 929,
+	"StartGT": 50,
+	"StopGT":929,
+	"Resize": false
+}
