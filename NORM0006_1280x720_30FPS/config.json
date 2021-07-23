@@ -10,9 +10,10 @@
 	"Gt_test": "gt_test",
 	"Clean": "clean",
 	"Gt": "gt",
-	"StartFrame": 1,
-	"StopFrame": 929,
-	"StartGT": 50,
-	"StopGT":929,
+	"InitializationFrames": 50,
+	"StartTrain": 1,
+	"StopTrain": 600,
+	"StartTest": 1,
+	"StopTest": 300,
 	"Resize": false
 }
