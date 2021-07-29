@@ -1,4 +1,5 @@
 { 
+	"ZeroPadding": 6,
 	"InputType": ".png",
 	"OutputType": ".png",
 	"Height": 720,
@@ -11,10 +12,10 @@
 	"DirectoryClean": "clean",
 	"DirectoryGt": "gt",
 	"InitializationFrames": 50,
-	"StartTrain": 1,
-	"StopTrain": 600,
-	"StartTest": 601,
-	"StopTest": 900,
-	"AllFrames": 920,
+	"StartTrain": 0,
+	"StopTrain": 99,
+	"StartTest": 100,
+	"StopTest": 199,
+	"AllFrames": 202,
 	"Resize": false
 }
