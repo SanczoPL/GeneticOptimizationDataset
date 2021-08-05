@@ -13,9 +13,9 @@
 	"DirectoryGt": "gt",
 	"InitializationFrames": 50,
 	"StartTrain": 0,
-	"StopTrain": 99,
-	"StartTest": 100,
-	"StopTest": 199,
-	"AllFrames": 202,
+	"StopTrain": 800,
+	"StartTest": 800,
+	"StopTest": 900,
+	"AllFrames": 902,
 	"Resize": false
 }
